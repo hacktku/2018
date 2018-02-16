@@ -17,7 +17,7 @@ body {
   font-size: 20px;
   line-height: 1.5;
   color: #272727;
-  background: #fff;
+  background: #064463;
   height: 100%;
   position: relative;
 }
@@ -568,7 +568,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .fh5co-pricing {
   padding: 4em 0 4em 0;
-  background: #f1faff;
+  background: #064463;
 }
 .fh5co-pricing .pricing {
   display: block;
@@ -823,7 +823,7 @@ th, td {
 }
 
 #fh5co-footer {
-  background: #3f5267;
+  background: #B2B2B2;
   color: #74889e;
 }
 #fh5co-footer a {
